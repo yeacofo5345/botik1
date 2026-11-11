@@ -1,3 +1,4 @@
-pyTelegramBotAPI==4.19.1
-openai==1.30.1
-python-dotenv==1.0.1
+pyTelegramBotAPI
+openai
+python-dotenv
+httpx==0.27.2
