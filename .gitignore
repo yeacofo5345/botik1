@@ -1,0 +1,8 @@
+.env
+
+# Мусор Python
+__pycache__/
+*.pyc
+.idea/
+venv/
+.venv/
